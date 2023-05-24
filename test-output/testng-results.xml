@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-12T22:42:13 IST" name="Suite" finished-at="2023-01-12T22:42:13 IST" duration-ms="141">
+    <groups>
+    </groups>
+    <test started-at="2023-01-12T22:42:13 IST" name="Test" finished-at="2023-01-12T22:42:13 IST" duration-ms="141">
+      <class name="automation_dipi.day2">
+        <test-method signature="web_Car_loan()[pri:0, instance:automation_dipi.day2@384ad17b]" started-at="2023-01-12T22:42:13 IST" name="web_Car_loan" finished-at="2023-01-12T22:42:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- web_Car_loan -->
+      </class> <!-- automation_dipi.day2 -->
+      <class name="automation_dipi.Setup">
+        <test-method signature="TestSetup()[pri:0, instance:automation_dipi.Setup@61862a7f]" started-at="2023-01-12T22:42:13 IST" name="TestSetup" finished-at="2023-01-12T22:42:13 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSetup -->
+      </class> <!-- automation_dipi.Setup -->
+      <class name="automation_dipi.day1">
+        <test-method signature="login()[pri:0, instance:automation_dipi.day1@20ce78ec]" started-at="2023-01-12T22:42:13 IST" name="login" finished-at="2023-01-12T22:42:13 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- automation_dipi.day1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
