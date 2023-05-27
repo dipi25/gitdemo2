@@ -12,12 +12,18 @@ public void login()
 {
 System.out.println("Login successfull");	
 System.out.println("Login successfullq2");	
-System.out.println("Login successfull3");	
+System.out.println("Login successfull3");
+
+
 }
 
 public void Home()
 {
-System.out.println("Home successfull");	
+System.out.println("Home successfull1");	
+System.out.println("Home successfull2");	
+System.out.println("Home successfull3");	
+
+
 }
 
 }
