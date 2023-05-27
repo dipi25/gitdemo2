@@ -7,7 +7,8 @@ public class day2 {
 public void web_Car_loan()
 {
 System.out.println("web_Car_loan successful");	
-	
+System.out.println("dipi_loan successful");
+System.out.println("dipi_loan successful5");
 }
 @Test	
 public void Mobile_Car_loan()
